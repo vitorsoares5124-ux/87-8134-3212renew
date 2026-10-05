@@ -1,21 +1,21 @@
 /* links.js — URLs de compra por rota. Não alterar design, textos ou comportamento.
- * default (rota "/") usa sufixo _7QNbt62RJ.
- * v1 (rota "/1" e "/1/") usa sufixo LzQccOTmZZ.
+ * default (rota "/") usa sufixo BJy3nySCDI.
+ * v1 (rota "/1" e "/1/") usa sufixo BJy3nySCDI.
  * Os botões no HTML usam data-buy="pote1|potes3|potes5|potes10" e este
  * script troca o href conforme a rota, sem duplicar layout.
  */
 window.RV_LINKS = {
   default: {
-    pote1: "https://pv.b4you.com.br/api/product/c/0vS1l3U-wA/_7QNbt62RJ?steps=3steps",
-    potes3: "https://pv.b4you.com.br/api/product/c/i_UAvMDaLm/_7QNbt62RJ?steps=3steps",
-    potes5: "https://pv.b4you.com.br/api/product/c/pjPiea8WOx/_7QNbt62RJ?steps=3steps",
-    potes10: "https://pv.b4you.com.br/api/product/c/XfTiRiO9yk/_7QNbt62RJ?steps=3steps"
+    pote1: "https://pv.b4you.com.br/api/product/c/0vS1l3U-wA/BJy3nySCDI?steps=3steps",
+    potes3: "https://pv.b4you.com.br/api/product/c/i_UAvMDaLm/BJy3nySCDI?steps=3steps",
+    potes5: "https://pv.b4you.com.br/api/product/c/pjPiea8WOx/BJy3nySCDI?steps=3steps",
+    potes10: "https://pv.b4you.com.br/api/product/c/XfTiRiO9yk/BJy3nySCDI?steps=3steps"
   },
   v1: {
-    pote1: "https://pv.b4you.com.br/api/product/c/0vS1l3U-wA/LzQccOTmZZ?steps=3steps",
-    potes3: "https://pv.b4you.com.br/api/product/c/i_UAvMDaLm/LzQccOTmZZ?steps=3steps",
-    potes5: "https://pv.b4you.com.br/api/product/c/pjPiea8WOx/LzQccOTmZZ?steps=3steps",
-    potes10: "https://pv.b4you.com.br/api/product/c/XfTiRiO9yk/LzQccOTmZZ?steps=3steps"
+    pote1: "https://pv.b4you.com.br/api/product/c/0vS1l3U-wA/BJy3nySCDI?steps=3steps",
+    potes3: "https://pv.b4you.com.br/api/product/c/i_UAvMDaLm/BJy3nySCDI?steps=3steps",
+    potes5: "https://pv.b4you.com.br/api/product/c/pjPiea8WOx/BJy3nySCDI?steps=3steps",
+    potes10: "https://pv.b4you.com.br/api/product/c/XfTiRiO9yk/BJy3nySCDI?steps=3steps"
   }
 };
 
